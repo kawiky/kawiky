@@ -5,11 +5,11 @@
 Atualmente, concilio meus estudos na Universidade Santo Amaro (UNICSUL) com minha experiência prática operando sistemas ERP e prestando suporte corporativo. Tenho grande facilidade para aprender novas ferramentas e estou sempre em busca de aprimorar meus conhecimentos no ecossistema de desenvolvimento de software e integração de sistemas.
 
 ##  Sobre mim
-- 📚 Cursando Bacharelado em **Ciencias da computação** na UNICSUL.
-- ☕ Desenvolvendo habilidades sólidas no backend, com foco no ecossistema **Java** (POO, Spring Boot, Spring Data JPA, REST APIs, Lombok).
-- 🗄️ Experiência acadêmica com modelagem de dados (MER/DER) e configuração de bancos de dados relacionais (**MySQL, PostgreSQL**).
-- 🌐 Explorando a criação de interfaces com **HTML5 e CSS3 (Flexbox)**
-- 💼 Atualmente atuo com rotinas de faturamento, lidando com o ERP TOTVS Protheus, XMLs e notas fiscais, o que me dá uma ótima visão de regras de negócio e como a tecnologia resolve problemas reais.
+-  Cursando Bacharelado em **Ciencias da computação** na UNICSUL.
+-  Desenvolvendo habilidades sólidas no backend, com foco no ecossistema **Java** (POO, Spring Boot, Spring Data JPA, REST APIs, Lombok).
+-  Experiência acadêmica com modelagem de dados (MER/DER) e configuração de bancos de dados relacionais (**MySQL, PostgreSQL**).
+-  Explorando a criação de interfaces com **HTML5 e CSS3 (Flexbox)**
+-  Atualmente atuo com rotinas de faturamento, lidando com o ERP TOTVS Protheus, XMLs e notas fiscais, o que me dá uma ótima visão de regras de negócio e como a tecnologia resolve problemas reais.
 
 ## Tecnologias e Ferramentas
 
