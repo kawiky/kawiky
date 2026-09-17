@@ -30,7 +30,7 @@ Atualmente, concilio meus estudos na Universidade Santo Amaro (UNICSUL) com minh
 
 
 
-## 📫 Como me encontrar
+##  Como me encontrar
 -  E-mail: kaikyramosmaia@gmail.com
 -  São Paulo, SP
 - [LinkedIn](www.linkedin.com/in/kaiky-ramos-maia-8237963a1) 
